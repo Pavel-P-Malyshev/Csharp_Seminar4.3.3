@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\bin\Debug\net6.0\Task003_Find.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\bin\Debug\net6.0\Task003_Find.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\bin\Debug\net6.0\Task003_Find.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\bin\Debug\net6.0\Task003_Find.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\bin\Debug\net6.0\Task003_Find.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\refint\Task003_Find.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\Task003_Find.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task003_Find\obj\Debug\net6.0\ref\Task003_Find.dll
