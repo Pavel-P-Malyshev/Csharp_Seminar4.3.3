@@ -35,16 +35,17 @@ void PrintArray (int[] col)
 }
 
 
-int[] RandomArraySum()
+int[] RandomArraySum(int size, int min, int max)
 {
-    int[] array=new int[12];
+    int[] array=new int[size];
     int[] answer=new int[2];
     int sum_pos=0;
     int sum_neg=0;
+    Random rnd=new Random();
 
-    for(int i=0;i<12;i++)
+    for(int i=0;i<array.Length;i++)
     {
-        array[i]=new Random().Next(-9,8);
+        array[i]=rnd.Next(min,max+1);
         if(array[i]<0) {sum_neg+=array[i];}
         if(array[i]>0) {sum_pos+=array[i];}
 
@@ -58,5 +59,6 @@ int[] RandomArraySum()
 
 }
 
-int[] array=RandomArraySum();
+
+int[] array=RandomArraySum(Prompt("enter array size: "),Prompt("Enter min threshold: "), Prompt("Enter max threshold: "));
 System.Console.WriteLine($"positive and negative numbers sums are: {array[0]} and {array[1]}");
