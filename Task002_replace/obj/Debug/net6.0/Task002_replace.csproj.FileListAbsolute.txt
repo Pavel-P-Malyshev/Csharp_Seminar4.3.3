@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\bin\Debug\net6.0\Task002_replace.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\bin\Debug\net6.0\Task002_replace.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\bin\Debug\net6.0\Task002_replace.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\bin\Debug\net6.0\Task002_replace.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\bin\Debug\net6.0\Task002_replace.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\refint\Task002_replace.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\Task002_replace.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task002_replace\obj\Debug\net6.0\ref\Task002_replace.dll
