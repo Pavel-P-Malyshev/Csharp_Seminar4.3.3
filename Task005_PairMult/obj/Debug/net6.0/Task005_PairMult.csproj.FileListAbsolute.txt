@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\bin\Debug\net6.0\Task005_PairMult.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\bin\Debug\net6.0\Task005_PairMult.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\bin\Debug\net6.0\Task005_PairMult.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\bin\Debug\net6.0\Task005_PairMult.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\bin\Debug\net6.0\Task005_PairMult.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\refint\Task005_PairMult.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\Task005_PairMult.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3.3 - Функции продолжение\Seminar 4.3.3\Task005_PairMult\obj\Debug\net6.0\ref\Task005_PairMult.dll
